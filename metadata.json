@@ -1,0 +1,25 @@
+
+{
+  "name": "LIDRA Inner Circle — Test #001",
+  "description": "Devnet test NFT for the Lions & Dragons Inner Circle membership project.",
+  "image": "https://raw.githubusercontent.com/studiolex031/lidra-nft-metadata/main/founding-roar-pass.jpg",
+  "external_url": "https://lionsanddragons.se",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "LIDRA Inner Circle"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Founding Member"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Devnet"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Test #001"
+    }
+  ]
+}
